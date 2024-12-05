@@ -7,7 +7,7 @@ __pycache__/
 # Ignore OS files
 .DS_Store
 
-# Ignore logs and temp files
+# Ignore log and temp files
 *.log
 *.tmp
 
